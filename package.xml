@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Guest__c.First_Name__c</members>
-        <members>Guest__c.Last_Name__c</members>
-        <name>CustomField</name>
+        <members>AccountUpdateHandler</members>
+        <members>AccountUpdateHandlerTest</members>
+        <name>ApexClass</name>
     </types>
     <types>
-        <members>Guest__c</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>Guest__c-Guest Layout</members>
-        <name>Layout</name>
+        <members>AccountUpdateTrigger</members>
+        <name>ApexTrigger</name>
     </types>
     <version>59.0</version>
 </Package>
