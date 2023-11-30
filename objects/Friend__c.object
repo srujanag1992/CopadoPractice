@@ -183,7 +183,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Friends</pluralLabel>
-    <searchLayouts />
+    <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
