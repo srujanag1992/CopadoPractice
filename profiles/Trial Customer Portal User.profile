@@ -2185,11 +2185,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Room__c.Description__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>Room__c.Number__c</field>
         <readable>false</readable>
     </fieldPermissions>

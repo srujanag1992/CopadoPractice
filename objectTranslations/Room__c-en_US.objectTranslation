@@ -9,10 +9,6 @@
         <value>Rooms</value>
     </caseValues>
     <fields>
-        <label><!-- Description --></label>
-        <name>Description__c</name>
-    </fields>
-    <fields>
         <label><!-- Number --></label>
         <name>Number__c</name>
     </fields>
